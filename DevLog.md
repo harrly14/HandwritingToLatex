@@ -1,0 +1,3 @@
+# 11/3
+Hours spent: 1
+In this initial DevLog, I simply set up my GitHub repo, outlined the project in the README, and found some resources to reference in the future. One GitHub repo I may want to explore in the future is: https://github.com/lukas-blecher/LaTeX-OCR. As of right now, I don't know what I even need to know, so I need to look into the requirements of the project a little more before I do anything. I will probably look over public repos, online code, and do some google searches to see what I can find. I don't intend to just rip someone's code, so there will be a good amount of time where I am simply researching and not writing anything. 
